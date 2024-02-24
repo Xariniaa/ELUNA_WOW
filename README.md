@@ -1,3 +1,3 @@
 World of Warcraft
-Azerothcore with ELUNA
+Azerothcore ELUNA
 Scripts
